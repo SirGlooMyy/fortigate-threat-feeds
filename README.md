@@ -1,6 +1,6 @@
 # FortiGate Threat Feeds
 
-Updated: 2026-07-07 19:45:28 UTC
+Updated: 2026-07-08 01:58:15 UTC
 
 ## MalwareBazaar FULL SHA256
 
