@@ -1,6 +1,6 @@
 # FortiGate Threat Feeds
 
-Updated: 2026-10-07 22:29:10 UTC
+Updated: 2026-10-08 03:49:47 UTC
 
 ## MalwareBazaar FULL SHA256
 
@@ -11,5 +11,5 @@ https://raw.githubusercontent.com/SirGlooMyy/fortigate-threat-feeds/main/malware
 Hash count:
 
 ```text
-1150840 malwarebazaar-sha256-full.txt
+1150906 malwarebazaar-sha256-full.txt
 ```
